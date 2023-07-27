@@ -1,3 +1,6 @@
+# Instructions:
+# - In the directory in which this is saved, create the folder "data/synthetic_study/"
+
 # This code:
 # a) Creates synthetic data on a grid and simulates data from a max-stable model
 # b) Fits a max-stable model to the simulated data in (a) and evaluates it for expected extreme rainfall estimation
