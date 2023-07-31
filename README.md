@@ -12,5 +12,5 @@ This folder contains all of the code used in leave-one-out cross-validation (LOO
 - `kriging-cross-validation.py`: Run this code to perform LOOCV for the kriging approach.
 - `max-stable-cross-validation.R`: Run this code to perform LOOCV for the max-stable approach.
 - `data`
-  - This folder contains extreme yearly rainfall data for the weather stations used in the study, for each climate region. It was extracted from NOAA's GHCN-D data set and transformed as outlined in the thesis.
-  - NOAA's GHCN-D data set can be found here: https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/access/ 
+  - This folder contains extreme yearly rainfall data for the weather stations used in the study, for each climate region. It was extracted from the Global Historical Climatology Network - Daily (GHCN-D) data set (Menne et al., [2012](https://doi.org/10.1175/JTECH-D-11-00103.1)) and transformed as outlined in the thesis.
+  - The GHCN-D data set can be found here: https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/access/ 
